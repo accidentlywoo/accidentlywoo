@@ -1,6 +1,4 @@
-Hello World :heart:
-
-4년 차 백엔드 개발자 꽑꽑이입니다.
+꽑꽑 Hello World :heart:
 
 예술과 커피, 향수, 그리고 운동 등 몰입하는 일을 좋아합니다.
 
